@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gifApp/static/css/main.d0144e46.css",
+    "main.js": "/gifApp/static/js/main.bd1cca3f.js",
+    "static/js/787.14eacf6e.chunk.js": "/gifApp/static/js/787.14eacf6e.chunk.js",
+    "index.html": "/gifApp/index.html",
+    "main.d0144e46.css.map": "/gifApp/static/css/main.d0144e46.css.map",
+    "main.bd1cca3f.js.map": "/gifApp/static/js/main.bd1cca3f.js.map",
+    "787.14eacf6e.chunk.js.map": "/gifApp/static/js/787.14eacf6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0144e46.css",
+    "static/js/main.bd1cca3f.js"
+  ]
+}
