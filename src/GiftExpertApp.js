@@ -5,10 +5,6 @@ import { GifGrid } from './Components/GifGrid';
 export const GiftExpertApp = () => {
     const [categories, setcategories] = useState(['One Punch Man']);
     
-    //handleAdd//
-  //  const handleAdd = () => {
-    //    setcategories((e) =>[...e,'HunterXHunter'])
-    //};
     
     //Codigo jsx//
   return (

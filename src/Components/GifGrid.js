@@ -5,7 +5,6 @@ import { GifGridItem } from './GifGridItem';
 
 export const GifGrid = ({ category }) => {
   //useState//
-  //  const [images, setimages] = useState([])
   const { data,loading } = useFetchGifs(category);
   
   return (
